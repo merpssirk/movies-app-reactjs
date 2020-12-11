@@ -1,3 +1,18 @@
+# API Key
+e5bd4438a869e7e4846c2385b28347ba
+
+# API URL
+ https://api.themoviedb.org/3/movie/550?api_key=e5bd4438a869e7e4846c2385b28347ba
+
+# API Read Access Token
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlNWJkNDQzOGE4NjllN2U0ODQ2YzIzODViMjgzNDdiYSIsInN1YiI6IjVmZDFjYjExMWQxYmY0MDA0MGNiNmQ3NSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.5h2osjjMLikacDqqrhk4gzlbEzN09F2fpYhGbW3FrHY
+
+## Movies App React
+- Project
+- API calls
+- Search 
+-Movie info
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
